@@ -41,7 +41,7 @@ The build system is 99% done so this documentation is interim, more detailed doc
 
    .. code-block:: bash
                   
-      sudo git dnf install cmake gcc-gfortran pkgconf bison flex mpich-devel lapack-devel blas-devel python3-devel python3-numpy swig doxygen graphviz
+      sudo dnf install git cmake gcc-gfortran pkgconf bison flex mpich-devel lapack-devel blas-devel python3-devel python3-numpy swig doxygen graphviz
 
 
 #. Create a directory for OpenCMISS and change directory into it e.g.,
